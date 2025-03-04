@@ -1,4 +1,4 @@
-# PyCockByEmir
+# sizeforemir
 
 Bu kütüphane, boy uzunluğu ve ayak uzunluğu ile özel hesaplamalar yapar. :D
 
